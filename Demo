@@ -1,0 +1,9 @@
+class Main
+{
+
+  public static void main(String [])
+  {
+    System.out.print("Hello World, Hey There !");
+  }
+
+}
